@@ -1,5 +1,5 @@
 # AWS-Web-Scanner
-This is an AWS [lambda function](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/lambda.py) that calls [docker image](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/Dockerfile) that runs by Fargate. Therefore, users can run web scan on AWS with higher speed, and users can also scan multiple target and store scan request on AWS for further investigation.
+This is an AWS [lambda function](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/lambda.py) that calls [docker image](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/Dockerfile) that runs by Fargate. Therefore, users can run web scan on AWS with higher speed, and users can also scan multiple target and store scan results on AWS for further investigation.
 
 
 # Demo
