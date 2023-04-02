@@ -3,6 +3,6 @@ This is an AWS [lambda function](https://github.com/JimSolomon/AWS-Web-Scanner/b
 
 
 # Demo
-Below is a scan result of a company.
+Below is a `Nmap` scan results of a company.
 
 ![scan result](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/Pasted%20image%2020230402120701.png)
