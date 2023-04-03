@@ -8,7 +8,7 @@ This project was developed by the author with a colleague, the task was to creat
 
 # Overview:
 
-This is the code of the AWS [lambda function](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/lambda.py) that calls a [docker image](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/Dockerfile) that runs by [Fargate](https://aws.amazon.com/fargate/) which can host docker images. Therefore, users can run web scan on AWS with higher speed, and users can also scan multiple target and store scan results on AWS such as [S3](https://aws.amazon.com/s3/) or [DynamoDB](https://aws.amazon.com/dynamodb/) for further investigation.
+This is the code of the AWS [lambda function](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/lambda.py) that calls a [docker image](https://github.com/JimSolomon/AWS-Web-Scanner/blob/main/Dockerfile) that runs by [Fargate](https://aws.amazon.com/fargate/) which can host docker images. Therefore, users can run web scan on AWS with higher speed with longer runtime than lambda, and users can also scan multiple target and store scan results on AWS such as [S3](https://aws.amazon.com/s3/) or [DynamoDB](https://aws.amazon.com/dynamodb/) for further investigation.
 
 # Note: This project is licensed under the terms of the MIT license.
 
