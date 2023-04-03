@@ -2,7 +2,7 @@
 
 # Note:warning:: This project is licensed under the terms of the Mozilla Public License 2.0.
 
-# Info
+# Info:
 
 This project was developed by the author with a colleague, the task was to create a web scan tool using AWS [lambda function](https://aws.amazon.com/lambda/). This project does not include steps of configuring AWS for the scanner becasue this is not an AWS tutorial. 
 
