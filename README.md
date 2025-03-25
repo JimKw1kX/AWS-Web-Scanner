@@ -1,6 +1,7 @@
-# AWS-Web-Scanner
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Follow @JimKwik_X](https://img.shields.io/twitter/follow/JimKwik_X?style=social)](https://x.com/JimKwik_X)
 
-# Note:warning:: This project is licensed under the terms of the Mozilla Public License 2.0.
+# AWS-Web-Scanner
 
 # Info:
 
